@@ -46,7 +46,7 @@ h1 ,h2,h3,h4,h5,h6{
 
    .btn-branding {
     background: var(--branding-color);
-    color: white;
+    color: #ffffff;
     border-radius: 4px;
     font-size: 18px;
     line-height: 27px;
